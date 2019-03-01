@@ -1,6 +1,6 @@
 # chatApplication
 
->Java Based Chatapplication using TCP
+Java Based Chatapplication using TCP
 
 ## Getting started
 
