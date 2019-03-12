@@ -1,9 +1,9 @@
 # chatApplication
 
-Java Based Chatapplication using TCP
+This project was part of my data communications lecture at my university. 
+It's Java based chat application using TCP where multiple users that are locally connected can chat with each other.
 
 ## Getting started
-
 ### Running Example
 * Download the zip or clone the Git repository.
 * Unzip the zip file (if you downloaded one)
